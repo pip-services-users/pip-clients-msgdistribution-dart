@@ -1,5 +1,6 @@
 import 'package:pip_clients_msgdistribution/pip_clients_msgdistribution.dart';
 import 'package:pip_services3_commons/pip_services3_commons.dart';
+import 'package:pip_services_msgdistribution/pip_services_msgdistribution.dart';
 
 Future<void> main(List<String> argument) async {
   try {

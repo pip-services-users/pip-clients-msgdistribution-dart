@@ -21,7 +21,7 @@ dependencies:
   #pip_services_sms: ^1.0.0
   pip_clients_msgtemplates: ^1.0.0
   pip_services_msgtemplates: ^1.0.0
-  #pip_services_msgdistribution: ^1.0.0
+  pip_services_msgdistribution: ^1.0.0
   http: "^0.12.0"
   angel_framework: ^2.1.1
 

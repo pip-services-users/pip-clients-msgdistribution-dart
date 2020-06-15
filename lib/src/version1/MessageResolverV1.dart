@@ -1,5 +1,5 @@
 import 'package:pip_services3_commons/pip_services3_commons.dart';
-import './MessageV1.dart';
+import 'package:pip_services_msgdistribution/pip_services_msgdistribution.dart';
 
 class MessageResolverV1 implements IReconfigurable {
   MessageResolverV1([ConfigParams config]) {

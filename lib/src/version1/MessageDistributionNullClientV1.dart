@@ -1,8 +1,6 @@
 import 'dart:async';
 import 'package:pip_services3_commons/pip_services3_commons.dart';
-//import 'package:pip_services_msgdistribution/pip_services_msgdistribution.dart';
-import './MessageV1.dart';
-import './RecipientV1.dart';
+import 'package:pip_services_msgdistribution/pip_services_msgdistribution.dart';
 import './IMessageDistributionClientV1.dart';
 
 class MessageDistributionNullClientV1 implements IMessageDistributionClientV1 {
